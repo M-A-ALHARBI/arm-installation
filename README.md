@@ -10,6 +10,7 @@ I used Cinema 4D to assemble
 
 3.Arm 01  
 يوجد ملف اسمه () يشرح تركيب الذراع
+
 اسم الملف installation explanation.stl  
 
 4.Arm 02   انظر ملف التركيب
